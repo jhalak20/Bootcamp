@@ -1,0 +1,16 @@
+Paytm Wallet
+
+3 innovations can be done in paytm wallet
+1)Paytm as a site is only available in english language and not in any other regional language.
+A lot of people in India Who wish to use paytm and dopnot understand english find it difficult to acces its feature.
+So Paytm should also support some regional or other major languages like for Ex Hindi
+Most people's mother tongue is hindi and even the aged people would find it easier to browse and search for items,make payments etc on paytmwallet.
+
+2)Recently paytm rolles back feature that turned wallet recharge via credit card into vouchers.
+The money added by users to paytm via credit card got converted to  gift vouchers instead of wallet money and could not be transferred to bank accounts and to other peoploe.This was a feature which was really good and that should not have been rolled back by paytm.
+Like in apple wallet cards shoould be stored in paytm like boarding passes,etc rearrangement features should be provided for the passes or cards and unsupported passes should be added there.
+Also paytm should give a provison of gps and live tracking to users who book tickets for journeys via buses.The users should be informed about the details and alsoif theres any delay in the journey or bus the user should be informed via message or a call from paytm.
+Live tracking of the bus or vehicle should be a feature that should be in paytm as it can boos up security and give a users family anh option to track them if some problem occurs.
+
+3)Even though selling of goods is an option that is available on paytm but like OLX people cannot sell stuff to third party people.This should be a feature so that people can get a chyance to interact with th customer who intends to buy the product and get better deals.
+Also the current cash limit in the account is very less a mere 20k to 25k.This should be increased for the benefits of customers and merchants.
