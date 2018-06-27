@@ -1,0 +1,32 @@
+Minutes of the meeting
+
+Members
+Team Leader
+Contractor
+
+Agenda
+The meetingis being held between an employee of a company and the contractor of the other company.The meeting is between 2 persons only.This is the first meeting.
+
+the employee wants an excel sheet to be developedand he wants to set up the time tomorrow because he is not very well prepared with the content and the agenda.The contractor is asking questions about the data processing and the work that needs to be done and followed on the process.The contractor wants to to meet the employee in person on Monday or tuesday and the employee is available online but not reachable in person..
+
+
+The basic agenda isthat he needs a palm folder and that has a form and abstract.He need the contractor to prepare 10 ques specifically for him and the genericize it acc to the requirements.He wants the project to be rewritten and implememnt it on other platforms as well.
+He wanrs new palm application schema and connection applications to the database.
+Each table uyou hit add or delete method where there is aprimary id for the table and a job id and it should follow referential integrity.
+He wants the code to be rewritten to be built faster and bvetter
+and tranform data into facts and dimensions ie 90 perc work can be transformed.
+
+The contractor  tells him hell come up with ques on tueand solutions too to make it better and to kick start changes.
+for him loading him this is not a concern.
+The contractor understands thatr there are 3 things ie side project,summary and excel file.
+Acc to the team leader  there are campaign id and campagin key in method and create a method thatr has campaign id and ket else create irt
+Team leader has Kelly who gives him the resources and also he wants unit testing to be done.
+The contractor says that the oracle query was not working there was some inbound error that is variable not bound and soln given by team lead was that there are diff parameters.
+And there bis also a time specification given for the work and for more details contractor can contact kelly
+
+Agenda2
+So finally he wants a draft and excel sheet and wants to pull data from campaign summary to 1st tag ,get calls and side project.
+The contractor has worked wth amazon and redcheff etc and loving his joob and the team leads company is looking for data engineers so contractor recommends his friend.
+
+Next meeting
+The next meeting is scheduled on tue where work would be done further.
